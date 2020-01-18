@@ -21,28 +21,3 @@ print("Added Matrices: ",combined_matrices)
 
 
 
-
-
-# for inner_matrices in matrix:
-#     add = matrix[0][0] + matrix2[0][0]
-# combined_matrices[0].append(add)
-
-# for inner_matrices in matrix:
-#     add_2 = matrix[0][1] + matrix2[0][1]
-# combined_matrices[0].append(add_2)
-
-# for inner_matrices in matrix2:
-#     add_3 = matrix[1][0] + matrix2[1][0]
-# combined_matrices[1].append(add_3)
-
-# for inner_matrices in matrix2:
-#     add_4 = matrix[1][1] + matrix2[1][1]
-# combined_matrices[1].append(add_4)
-
-
-# print("Added Matrices: ",combined_matrices)
-
-
-
-
-
