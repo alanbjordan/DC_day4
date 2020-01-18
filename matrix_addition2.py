@@ -18,3 +18,4 @@ if len(mx) == len(mx2):
         z.append(v)
 print(z)
 
+#solved with help from lockettP's code
